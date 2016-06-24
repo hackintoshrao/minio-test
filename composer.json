@@ -1,0 +1,15 @@
+{
+    "name": "hernandev/test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Hernandes",
+            "email": "diego@hernandev.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "aws/aws-sdk-php": "3.*"
+    }
+}
